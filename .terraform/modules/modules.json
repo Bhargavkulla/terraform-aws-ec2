@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"my_module","Source":"./modules/ec2_module","Dir":"modules/ec2_module"},{"Key":"my_s3_module","Source":"./modules/s3_module","Dir":"modules/s3_module"}]}
